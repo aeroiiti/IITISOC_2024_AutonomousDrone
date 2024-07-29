@@ -1,6 +1,4 @@
-Certainly! Let’s expand on each section to provide a more comprehensive explanation of your project.
 
----
 
 # Autonomous Navigation in Drones
 
@@ -169,6 +167,3 @@ Map generation involves creating a map of the environment using LIDAR (Light Det
 - [RViz Documentation](https://docs.ros.org/en/humble/Visualizing.html)
 - [Nav2 Tutorial for TurtleBot3](https://docs.nav2.org/tutorials/docs/navigation2_on_real_turtlebot3.html)
 
----
-
-This expanded README should provide a clear and detailed explanation of each part of your project. You can use this content to create a comprehensive Word document. If you need further details or modifications, just let me know!
