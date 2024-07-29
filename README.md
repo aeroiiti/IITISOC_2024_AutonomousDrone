@@ -1,6 +1,12 @@
-
-
 # Autonomous Navigation in Drones
+This project is a collaborative effort by:
+
+- **Anand Nambiar Sreenivasan** - [GitHub: @NambiarAnand](https://github.com/NambiarAnand)
+- **Lavanya Bhatnagar** - [GitHub: @Lavanya-1133](https://github.com/Lavanya-1133)
+- **Rohan Dhiman** - [GitHub: @rohandhiman5](https://github.com/rohandhiman5)
+- **R Gopikrishnan** - [GitHub: @Rgopikrishnan18](https://github.com/Rgopikrishnan18)
+
+## Overview
 
 This project aims to develop autonomous navigation capabilities for drones using ROS 2, Gazebo, and the Navigation 2 (Nav2) stack. The project was partially completed with significant achievements in setting up drone teleoperation and TurtleBot autonomous navigation.
 
