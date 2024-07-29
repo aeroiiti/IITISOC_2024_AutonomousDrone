@@ -1,6 +1,12 @@
-
-
 # Autonomous Navigation in Drones
+This project is a collaborative effort by:
+
+- **Anand Nambiar Sreenivasan** - [GitHub: @NambiarAnand](https://github.com/NambiarAnand)
+- **Lavanya Bhatnagar** - [GitHub: @Lavanya-1133](https://github.com/Lavanya-1133)
+- **Rohan Dhiman** - [GitHub: @rohandhiman5](https://github.com/rohandhiman5)
+- **R Gopikrishnan** - [GitHub: @Rgopikrishnan18](https://github.com/Rgopikrishnan18)
+
+## Overview
 
 This project aims to develop autonomous navigation capabilities for drones using ROS 2, Gazebo, and the Navigation 2 (Nav2) stack. The project was partially completed with significant achievements in setting up drone teleoperation and TurtleBot autonomous navigation.
 
@@ -166,4 +172,7 @@ Map generation involves creating a map of the environment using LIDAR (Light Det
 - [Gazebo 11 Installation](http://gazebosim.org/tutorials?tut=install_ubuntu&cat=install)
 - [RViz Documentation](https://docs.ros.org/en/humble/Visualizing.html)
 - [Nav2 Tutorial for TurtleBot3](https://docs.nav2.org/tutorials/docs/navigation2_on_real_turtlebot3.html)
+- [Navigation2 Documentation](https://docs.nav2.org/getting_started/index.html)
+- [Medium Article on ROS 2 Mobile Robotics](https://medium.com/@thehummingbird/ros-2-mobile-robotics-series-part-2-e8dd6116aacb)
+
 
