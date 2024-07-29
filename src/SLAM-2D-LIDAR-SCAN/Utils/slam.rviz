@@ -1,0 +1,10 @@
+global_options:
+  fixed_frame: map
+
+markers:
+- name: Particles
+  topic: /particle_poses
+  type: PoseArray
+  color: {r: 1.0, g: 0.0, b: 0.0, a: 1.0}
+  scale: 0.1
+
