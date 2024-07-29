@@ -1,0 +1,24 @@
+pre-requisites:
+	- download ros2 humble
+	- install gazebo 11, rviz 2
+	- install all necessary plugins: sudo apt-get install ros-humble-gazebo-plugins ros-humble-gazebo-ros
+
+1. Fork the repo
+
+2. Open the folder and:
+	rosdep install -r -y --from-paths src --ignore-src --rosdistro humble
+	colcon build --packages-select-regex sjtu*
+	
+3. Everytime you open a terminal source the installations:
+	source install/setup.bash
+
+4. To spawn drone, rviz, gazebo and xterm window for teleop:
+	ros2 launch sjtu_drone_bringup sjtu_drone_bringup.launch.py
+	
+5. Take off:
+	ros2 topic pub /drone/takeoff std_msgs/msg/Empty {}
+	
+6. Navigate using teleop windows : {'u','i','o','h','j','k','m',',','.','t','b'}
+
+7.Land:
+	ros2 topic pub /drone/land std_msgs/msg/Empty {}
