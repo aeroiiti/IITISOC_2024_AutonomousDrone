@@ -1,7 +1,7 @@
 # Autonomous Navigation in Drones
 This project is a collaborative effort by:
 
-- **Anand Nambiar Sreenivasan** - [GitHub: @NambiarAnand](https://github.com/NambiarAnand)
+- **Nambiar Anand Sreenivasan** - [GitHub: @NambiarAnand](https://github.com/NambiarAnand)
 - **Lavanya Bhatnagar** - [GitHub: @Lavanya-1133](https://github.com/Lavanya-1133)
 - **Rohan Dhiman** - [GitHub: @rohandhiman5](https://github.com/rohandhiman5)
 - **R Gopikrishnan** - [GitHub: @Rgopikrishnan18](https://github.com/Rgopikrishnan18)
